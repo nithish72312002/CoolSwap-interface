@@ -96,6 +96,8 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "@types/react-router": "5.1.14",
+    "@types/lodash": "4.14.74",
     "@uniswap/default-token-list": "2.0.0",
     "dotenv": "^10.0.0",
     "web3-utils": "^1.5.3"
