@@ -91,6 +91,8 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "@types/lodash": "^4.14.74",
+    "@types/react-router": "^5.1.14",
     "@uniswap/default-token-list": "2.0.0",
     "dotenv": "^10.0.0",
     "web3-utils": "^1.5.3"
@@ -101,16 +103,9 @@
       "node_modules"
     ]
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
 }
