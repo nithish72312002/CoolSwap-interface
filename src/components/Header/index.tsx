@@ -260,7 +260,7 @@ export default function Header() {
       <HeaderRow>
         <Title href=".">
           <Icon>
-            <img width={'140px'} src={darkMode ? LogoDark : Logo} alt="logo" />
+            <img width={'40px'} src={darkMode ? LogoDark : Logo} alt="logo" />
           </Icon>
         </Title>
       </HeaderRow>
@@ -286,6 +286,8 @@ export default function Header() {
 
       <HeaderControls>
         <HeaderElement>
+            <NetworkCard>
+              <a href='https://faucet.jupiternft.xyz/' target="_blank" rel="noopener noreferrer">Faucet</a></NetworkCard>
           <HideSmall>
             {chainId && NETWORK_LABELS[chainId] && (
               <NetworkCard title={NETWORK_LABELS[chainId]}>{NETWORK_LABELS[chainId]}</NetworkCard>

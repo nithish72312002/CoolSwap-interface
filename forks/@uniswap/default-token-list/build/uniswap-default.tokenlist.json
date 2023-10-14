@@ -30,12 +30,12 @@
       "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/myrollapp_160-1/logos/myrollapp_160-1.png"
     },
     {
-      "name": "Aragon Network Token",
-      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-      "symbol": "ANT",
+      "chainId": 5504686,
+      "address": "0xbc3e49AD48e32641d0cEC282b15E3f85933b6b05",
+      "name": "Wrapped GAS",
+      "symbol": "WGAS",
       "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/nithish72312002/logo1/main/.github/images/faviconblack.png"
     },
     {
       "name": "Balancer",
