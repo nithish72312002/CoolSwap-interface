@@ -38,12 +38,12 @@
       "logoURI": "https://raw.githubusercontent.com/nithish72312002/logo1/main/.github/images/faviconblack.png"
     },
     {
-      "name": "Balancer",
-      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-      "symbol": "BAL",
+      "chainId": 5504686,
+      "address": "0x2D1443b615B5388786a6aC091b75FC1C0eF1fb36",
+      "name": "Pepe Token",
+      "symbol": "PEPE",
       "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/nithish72312002/logo1/main/.github/images/pepe.jpg"
     },
     {
       "chainId": 1,
