@@ -46,12 +46,12 @@
       "logoURI": "https://raw.githubusercontent.com/nithish72312002/logo1/main/.github/images/pepe.jpg"
     },
     {
-      "chainId": 1,
-      "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
-      "name": "Band Protocol",
-      "symbol": "BAND",
+      "chainId": 5504686,
+      "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+      "name": "uKFR",
+      "symbol": "KFR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326"
+      "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/kafirdym_9398423-1/logos/zawadzkiarts-20220909-0001.jpg"
     },
     {
       "name": "Bancor Network Token",
