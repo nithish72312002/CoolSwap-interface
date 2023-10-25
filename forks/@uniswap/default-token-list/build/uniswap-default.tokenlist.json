@@ -15,19 +15,11 @@
   "tokens": [
     {
       "chainId": 5504686,
-      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+      "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
       "name": "uDYM",
       "symbol": "DYM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/froopyland_100-1/logos/dymension-logo.svg"
-    },
-    {
-      "chainId": 5504686,
-      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
-      "name": "uMOD",
-      "symbol": "MOD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/myrollapp_160-1/logos/myrollapp_160-1.png"
     },
     {
       "chainId": 5504686,
@@ -54,12 +46,12 @@
       "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/kafirdym_9398423-1/logos/zawadzkiarts-20220909-0001.jpg"
     },
     {
-      "name": "Bancor Network Token",
-      "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
-      "symbol": "BNT",
+      "chainId": 5504686,
+      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+      "name": "OLD DYM CONTRACT",
+      "symbol": "OLD DYM",
       "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/froopyland_100-1/logos/dymension-logo.svg"
     },
     {
       "name": "Compound",
