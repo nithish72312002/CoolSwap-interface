@@ -43,15 +43,7 @@
       "name": "uKFR",
       "symbol": "KFR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/kafirdym_9398423-1/logos/zawadzkiarts-20220909-0001.jpg"
-    },
-    {
-      "chainId": 5504686,
-      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
-      "name": "OLD DYM CONTRACT",
-      "symbol": "OLD DYM",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/froopyland_100-1/logos/dymension-logo.svg"
+      "logoURI": "https://i.imgur.com/siMm1NV.png"
     },
     {
       "name": "Compound",
