@@ -14,36 +14,28 @@
   ],
   "tokens": [
     {
-      "chainId": 5504686,
-      "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
+      "chainId": 6833895,
+      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
       "name": "uDYM",
       "symbol": "DYM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nithish72312002/rollapp-registry/main/froopyland_100-1/logos/dymension-logo.svg"
     },
     {
-      "chainId": 5504686,
-      "address": "0xbc3e49AD48e32641d0cEC282b15E3f85933b6b05",
+      "chainId": 6833895,
+      "address": "0x93faF1F44EA4Cd6A3f30c5735D64B7fAFcc72163",
       "name": "Wrapped GAS",
       "symbol": "WGAS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nithish72312002/logo1/main/.github/images/faviconblack.png"
     },
     {
-      "chainId": 5504686,
-      "address": "0x2D1443b615B5388786a6aC091b75FC1C0eF1fb36",
+      "chainId": 6833895,
+      "address": "0x9B0e4fd977f9FC723aC9057d41db55e7A29eb75a",
       "name": "Pepe Token",
       "symbol": "PEPE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nithish72312002/logo1/main/.github/images/pepe.jpg"
-    },
-    {
-      "chainId": 5504686,
-      "address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
-      "name": "uKFR",
-      "symbol": "KFR",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/siMm1NV.png"
     },
     {
       "name": "Compound",
